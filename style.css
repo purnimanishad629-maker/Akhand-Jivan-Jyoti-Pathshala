@@ -73,10 +73,10 @@ body{
     border:6px solid white;
     margin-bottom:25px;
     box-shadow:0 0 40px rgba(255,255,255,0.5);
-}
-.hero{
+.hero
+    {
     height:100vh;
-    background:url('Karate practice.jpg');
+    background:url('karate-practice.jpg');
     background-position:center;
     background-size:cover;
     display:flex;
