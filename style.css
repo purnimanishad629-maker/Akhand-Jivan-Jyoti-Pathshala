@@ -50,16 +50,7 @@ body{
 
 /* HERO */
 
-.hero{
-    height:100vh;
-    background:url('Students.jpg');
-    background-position:center;
-    display:flex;
-    justify-content:center;
-    align-items:center;
-    position:relative;
-    text-align:center;
-}
+
 
 .overlay{
     position:absolute;
@@ -83,7 +74,17 @@ body{
     margin-bottom:25px;
     box-shadow:0 0 40px rgba(255,255,255,0.5);
 }
-
+.hero{
+    height:100vh;
+    background:url('Karate practice.jpg');
+    background-position:center;
+    background-size:cover;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    position:relative;
+    text-align:center;
+}
 .hero h1{
     font-size:70px;
     line-height:1.1;
