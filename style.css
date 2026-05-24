@@ -52,7 +52,7 @@ body{
 
 .hero{
     height:100vh;
-    background:url('Students.jpg' )
+    background:url('Students.jpg')
     background-position:center;
     display:flex;
     justify-content:center;
