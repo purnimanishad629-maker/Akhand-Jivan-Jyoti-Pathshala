@@ -88,7 +88,7 @@
         <div class="section-title">Memories</div>
         <div class="stats-row">
             <div class="stat-item"><h3>25+</h3><p>Awards Won</p></div>
-            <div class="stat-item"><h3>500+</h3><p>Students Enrolled</p></div>
+            <div class="stat-item"><h3>1100+</h3><p>Students Enrolled</p></div>
             <div class="stat-item"><h3>25+</h3><p>Experienced Teachers</p></div>
             <div class="stat-item"><h3>98%</h3><p>Result Success</p></div>
         </div>
