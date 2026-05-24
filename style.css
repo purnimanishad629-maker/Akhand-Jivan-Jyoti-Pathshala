@@ -52,8 +52,7 @@ body{
 
 .hero{
     height:100vh;
-    background:url('https://images.unsplash.com/photo-1509062522246-3755977927d7?q=80&w=1600&auto=format&fit=crop');
-    background-size:cover;
+    background:url('Staf.jpg')
     background-position:center;
     display:flex;
     justify-content:center;
